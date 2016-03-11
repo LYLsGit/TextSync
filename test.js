@@ -1,6 +1,6 @@
 'use strict';
-let client = require('../client');
-let server = require('../server');
+let client = require('./client');
+let server = require('./server');
 
 let chunks = client.sync('From far, from eve and morning. And yon twelve-winded sky, the stuff of life to knit me. Blew hither: here am I.');
 
