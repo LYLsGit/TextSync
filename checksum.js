@@ -2,7 +2,7 @@
  * Rolling Checksum from
  * http://www.cs.cmu.edu/~15-749/READINGS/required/cas/tridgell96.pdf
  *
- * Copyright 2011, tajpure
+ * Copyright 2016, tajpure
  *
  * Licensed under the MIT license:
  * http://www.opensource.org/licenses/MIT
